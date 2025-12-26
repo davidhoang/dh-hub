@@ -1,9 +1,11 @@
 # I'm David (DH)
-_Last updated March 2, 2024_
+_Last updated December 26, 2025_
 
 Hello. My name is David, and I'm often referred to as DH. It's not a special nickname, mainly because there is always another David at companies I work. You can call me either, but never Dave (please).
 
-I'm a designer, angel investor, and writer. This repo is public notes I'd like to share and open source to everyone. My ask is if you get something useful from this content to refer to it and provide attribution.
+I'm a designer and investor focused on design, technology, and entrepreneurship. I'm the founder of [Proof of Concept](https://www.proofofconcept.pub), a weekly newsletter exploring design, technology, and entrepreneurship, and serve as an advisor at Play.
+
+This repo is public notes I'd like to share and open source to everyone. My ask is if you get something useful from this content to refer to it and provide attribution.
 
 There are three core areas in this repo:
 - [Resources](/resources): Content I've created that I feel comfortable calling my original work

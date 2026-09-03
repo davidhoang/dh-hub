@@ -1,6 +1,8 @@
 # Speaking
 List of speaking events I've had the pleasure of participating in.
 
+A current list of talks and appearances lives on [davidhoang.com/featured](https://www.davidhoang.com/featured).
+
 ## 2023
 (Limited booking)
 

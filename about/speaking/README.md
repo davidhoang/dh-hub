@@ -1,5 +1,5 @@
 # Speaking
-Featured and selected speaking engagements. For the most current list, see the featured page on my site.
+Featured and selected speaking engagements. For the most current list, see [davidhoang.com/featured](https://www.davidhoang.com/featured).
 
 ## 2025
 - May – [NYCxDESIGN: The future of software design](https://nycxdesign.org)

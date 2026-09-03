@@ -2,15 +2,11 @@
 
 ## Long version
 
-David Hoang is an operator and investor working on tools that revolutionize the internet. David's mission is empowering humans with tools to launch their ideas and experience ranges from design/dev tools, two-sided marketplaces, and PLG.
+David Hoang is a designer, investor, and writer focused on building software that revolutionizes the internet. Currently, he is VP of Design at Atlassian leading AI, Ecosystem, and DevAI. Previously, he was VP of Marketing and Design at Replit where he led Brand, DevRel, Product Design, and Research to empower the next billion software creators. He was also Head of Design at Webflow during their growth stage to scale both the team and the company's vision for a more expressive, accessible internet. Prior to that, he was Head of Product Design at One Medical during its transition to virtual care and IPO.
 
-Currently, David is Head of Design at Replit and advisor for Play. Previously, he led design at Webflow, One Medical, and Black Pixel. He's taught Design at General Assembly and guest lectured at The Copenhagen Institute of Interaction Design, University of Washington, and Hyper Island.
-
-In his free time, David enjoys reading, writing, and the arts. He currently resides in San Francisco and Palm Springs, California.
+He writes a weekly newsletter called Proof of Concept, which focuses on experimentation in software, design, and entrepreneurship. He currently resides in Palm Springs and San Francisco, California.
 
 
 ## Brief version
 
-David Hoang is an operator and investor working on tools that revolutionize the internet. Currently, David is Head of Design at Replit and advisor for Play. Previously, he led design at Webflow, One Medical, and Black Pixel.
-
-He's taught Design at General Assembly and guest lectured at The Copenhagen Institute of Interaction Design, University of Washington, and Hyper Island. He currently resides in San Francisco and Palm Springs, California.
+David Hoang is a designer, investor, and writer focused on building software that revolutionizes the internet. Currently, he is VP of Design at Atlassian leading AI, Ecosystem, and DevAI. Previously, he was VP of Marketing and Design at Replit, Head of Design at Webflow, and Head of Product Design at One Medical. He writes a weekly newsletter called Proof of Concept, and currently resides in Palm Springs and San Francisco, California.
